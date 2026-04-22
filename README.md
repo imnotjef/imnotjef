@@ -30,9 +30,7 @@
 Software Engineer focused on **Java** **(Spring Boot)**, Building and operating scalable APIs end-to-end-from development and architecture to cloud infrastructure, DevOps and service migrations.
 **Internet Systems** student at São Paulo State College of Technology (FATEC).
 
-Founder of [**sampatech-hub**](https://github.com/sampatech-hub) — an open source project focused entirely on promoting and spreading tech events in São Paulo. Contributors receive a participation badge:
-
-[![sampatech badge](https://i.imgur.com/cj1dult.gif)](https://github.com/sampatech-hub)
+Founder of [**sampatech-hub**](https://github.com/sampatech-hub) — an open source project focused entirely on promoting and spreading tech events in São Paulo.
 
 **2026 Goals**
 - AWS Cloud Practitioner (CLF-C02)
@@ -70,7 +68,7 @@ Founder of [**sampatech-hub**](https://github.com/sampatech-hub) — an open sou
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<h2 align="center">🏆 Certifications & Qualifications</h2>
+<h2 align="center"> Certifications & Qualifications</h2>
 
 <br/>
 
@@ -117,7 +115,7 @@ Founder of [**sampatech-hub**](https://github.com/sampatech-hub) — an open sou
 
 <br/>
 
-<h2 align="center">⚙️ Tools & Skills</h2>
+<h2 align="center"> Tools & Skills</h2>
 
 <div align="center">
 
