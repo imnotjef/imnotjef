@@ -30,7 +30,9 @@
 Software Engineer focused on **Java** **(Spring Boot)**, Building and operating scalable APIs end-to-end-from development and architecture to cloud infrastructure, DevOps and service migrations.
 **Internet Systems** student at São Paulo State College of Technology (FATEC).
 
-Founder of [**sampatech-hub**](https://github.com/sampatech-hub) — an open source project focused entirely on promoting and spreading tech events in São Paulo. 
+Founder of [**sampatech-hub**](https://github.com/sampatech-hub) — an open source project focused entirely on promoting and spreading tech events in São Paulo. Contributors receive a participation badge:
+
+[![sampatech badge](https://i.imgur.com/cj1dult.gif)](https://github.com/sampatech-hub)
 
 **2026 Goals**
 - AWS Cloud Practitioner (CLF-C02)
@@ -73,7 +75,7 @@ Founder of [**sampatech-hub**](https://github.com/sampatech-hub) — an open sou
 <br/>
 
 <div align="center">
-<table>
+<table border="0" cellspacing="0" cellpadding="10">
 <tr>
 <td width="25%" align="center" valign="top">
 <img width="140" height="140" alt="AWS Cloud Practitioner" src="https://github.com/user-attachments/assets/5636b0bd-0a8f-48f5-8c9c-f53cdc2c5238" />
@@ -115,15 +117,36 @@ Founder of [**sampatech-hub**](https://github.com/sampatech-hub) — an open sou
 
 <br/>
 
-<h2 align="center">Skills</h2>
-<p align="center">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
-</p>
+<h2 align="center">⚙️ Tools & Skills</h2>
+
+<div align="center">
+
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg"/>
+<img height="40" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+<img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg"/>
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Notepad%2B%2B_Logo.png"/>
+<img height="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.45.0/files/dark/n8n.png"/>
+<img height="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.45.0/files/dark/cursor.png"/>
+<img height="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.45.0/files/dark/claude.png"/>
+<img height="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.45.0/files/dark/github-copilot.png"/>
+
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/imnotjef/imnotjef/output/github-contribution-grid-snake.svg" alt="snake eating contributions"/>
