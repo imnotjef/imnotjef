@@ -11,7 +11,8 @@
   </a>
 </h1>
 
-<details align="center">
+<div align="center">
+<details>
   <summary><samp><b>More Info</b></samp></summary>
 
   <br>
@@ -29,7 +30,7 @@
 Software Engineer focused on **Java** **(Spring Boot)**, Building and operating scalable APIs end-to-end-from development and architecture to cloud infrastructure, DevOps and service migrations.
 **Internet Systems** student at São Paulo State College of Technology (FATEC).
 
-Founder of [**sampatech-hub**](https://github.com/sampatech-hub) — an open source project focused entirely on promoting and spreading tech events in São Paulo.
+Founder of [**sampatech-hub**](https://github.com/sampatech-hub) — an open source project focused entirely on promoting and spreading tech events in São Paulo. 
 
 **2026 Goals**
 - AWS Cloud Practitioner (CLF-C02)
@@ -61,11 +62,13 @@ Founder of [**sampatech-hub**](https://github.com/sampatech-hub) — an open sou
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<font size="40"> Certifications & Qualifications</font>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<h2 align="center">🏆 Certifications & Qualifications</h2>
 
 <br/>
 
@@ -79,7 +82,7 @@ Founder of [**sampatech-hub**](https://github.com/sampatech-hub) — an open sou
 <sub>AWS Certified Cloud Practitioner</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<img width="140" height="140" alt="Image" src="https://github.com/user-attachments/assets/718204a4-559b-4a74-af2c-9ae3035794a0" />
+<img width="140" height="140" alt="AWS Solution Architect" src="https://github.com/user-attachments/assets/718204a4-559b-4a74-af2c-9ae3035794a0" />
 <br/><br/>
 <strong>AWS</strong><br/>
 <sub>AWS Certified Solution Architect</sub>
@@ -100,20 +103,17 @@ Founder of [**sampatech-hub**](https://github.com/sampatech-hub) — an open sou
 </table>
 </div>
 
+<div align="center">
+  <a href="https://drive.google.com/drive/folders/1VbigaVSACfEGOIWGQiK5dxqPkynOnQuX?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-Certifications-080c14?style=for-the-badge&logo=googledrive&logoColor=ffffff" alt="View All Certifications"/>
+  </a>
+</div>
 
 <div align="center">
-  <a href="https://drive.google.com/drive/folders/1golySmWUI-0wjs3a5n0YqXnJ0bXzcupc?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CERTIFICATIONS-VIEW%20ALL-007EC6?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=555555" alt="View All Certifications" /></a>
-</div>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 <br/>
-
-
-</div>
 
 <h2 align="center">Skills</h2>
 <p align="center">
@@ -126,19 +126,8 @@ Founder of [**sampatech-hub**](https://github.com/sampatech-hub) — an open sou
 </p>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imnotjef/imnotjef/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/imnotjef/imnotjef/output/github-contribution-grid-snake.svg">
-</picture>
+  <img src="https://raw.githubusercontent.com/imnotjef/imnotjef/output/github-contribution-grid-snake.svg" alt="snake eating contributions"/>
 </div>
 
 </details>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+</div>
