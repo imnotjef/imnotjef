@@ -24,12 +24,10 @@
 <tr>
 <td width="55%" valign="top">
 
-<div align="center">
-
 ### Jeferson Rodrigo
 
 Software Engineer focused on **Java** **(Spring Boot)**, Building and operating scalable APIs end-to-end-from development and architecture to cloud infrastructure, DevOps and service migrations.
- **Internet Systems** student at São Paulo State College of Technology (FATEC).
+**Internet Systems** student at São Paulo State College of Technology (FATEC).
 
 Founder of [**sampatech-hub**](https://github.com/sampatech-hub) — an open source project focused entirely on promoting and spreading tech events in São Paulo.
 
@@ -38,79 +36,109 @@ Founder of [**sampatech-hub**](https://github.com/sampatech-hub) — an open sou
 - AZ-900: Microsoft Azure Fundamentals
 - GitHub Foundations
 - GitHub Copilot Certification
--  English: A2 → B1
--  Participate in my first Hackathon
-
+- English: A2 → B1
+- Participate in my first Hackathon
 
 </td>
 <td width="45%" valign="top" align="center">
 
-<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/0b1d9edf-7b4e-47d4-a946-eb769835df68" />
+<img width="400" height="400" alt="Profile Photo" src="https://i.imgur.com/DXkGPsO.jpeg" />
 
 <p>
-  <a href="https://www.linkedin.com/in/analyticsthiagocardoso"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:analyticsdev.thiago@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:jefersondacostacomercial@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/jeferson-rodrigo">
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwIDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxIDEgMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==" alt="LinkedIn"/>
+  </a>
 </p>
-<img src="https://komarev.com/ghpvc/?username=Thiago-code-lab&style=flat-square&color=667eea&label=VIEWS" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&hide_title=true" />
+<img src="https://komarev.com/ghpvc/?username=imnotjef&style=for-the-badge&color=080c14&label=VIEWS&logoColor=ffffff" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=imnotjef&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=58a6ff&include_all_commits=true&count_private=true&hide_title=true" />
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <a href="https://thiago-code-lab.github.io/"><img src="https://img.shields.io/badge/🌐Portfolio-View Projects-blue?style=for-the-badge" alt="Portfolio Thiago Cardoso"></a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<font size="40"> Certifications & Qualifications</font>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+<img width="140" height="140" alt="AWS Cloud Practitioner" src="https://github.com/user-attachments/assets/5636b0bd-0a8f-48f5-8c9c-f53cdc2c5238" />
+<br/><br/>
+<strong>AWS</strong><br/>
+<sub>AWS Certified Cloud Practitioner</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img width="140" height="140" alt="Image" src="https://github.com/user-attachments/assets/718204a4-559b-4a74-af2c-9ae3035794a0" />
+<br/><br/>
+<strong>AWS</strong><br/>
+<sub>AWS Certified Solution Architect</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img width="180" height="140" alt="Google Data Analyst" src="https://github.com/user-attachments/assets/505be43a-d2b0-4255-b2f4-fab68a69234f"/>
+<br/><br/>
+<strong>Google</strong><br/>
+<sub>Professional Data Analyst</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img width="240" height="140" alt="Google Cloud" src="https://github.com/user-attachments/assets/db9e1efb-9ef0-4a23-bb9e-7c0f5ee84f05"/>
+<br/><br/>
+<strong>Google Cloud</strong><br/>
+<sub>Artificial Intelligence</sub>
+</td>
+</tr>
+</table>
+</div>
+
+
+<div align="center">
+  <a href="https://drive.google.com/drive/folders/1golySmWUI-0wjs3a5n0YqXnJ0bXzcupc?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CERTIFICATIONS-VIEW%20ALL-007EC6?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=555555" alt="View All Certifications" /></a>
 </div>
 </div>
 
-<h2 align="center">My certification badges</h2>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+
+</div>
+
+<h2 align="center">Skills</h2>
 <p align="center">
-    <img width="140" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/>
-    <img width="140" src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"/>
-    <img width="140" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
-  </p>
-  <h2 align="center">Skills</h2>
-  <p align="center">
-    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
-
-
-
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+</p>
 
 <div align="center">
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake.svg">
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imnotjef/imnotjef/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/imnotjef/imnotjef/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
+</details>
 
-<div align="center">
 
-### Want to exchange ideas?
-Contact me on the social media channels above or open an issue here on GitHub! 🚀
-
-##### 🔗 Here are my social networks:
-
-</div>
-
-<a href="https://www.instagram.com/not_jef?igsh=bnhiaWhrc2QweDB3">
-  <img align="right" alt="instagram" width="22px"  src="https://github.com/user-attachments/assets/046961b1-e847-43bd-8eb5-2214dc8a7f56" />
-</a>
-<a href="http://www.linkedin.com/in/jeferson-rodrigo/">
-  <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-
-</div>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=notjef" alt="Profile views"/>
-</p>
-  </details>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake-dark.svg" />
+</picture>
