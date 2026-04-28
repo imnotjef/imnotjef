@@ -43,7 +43,7 @@ Founder of [**sampatech-hub**](https://github.com/sampatech-hub) — an open sou
 </td>
 <td width="45%" valign="top" align="center">
 
-<img width="400" height="400" alt="Profile Photo" src="https://i.imgur.com/DXkGPsO.jpeg" />
+<img width="400" height="400" alt="Profile Photo" src= "https://github.com/user-attachments/assets/d850c385-5f40-4bdb-a250-34b89d45c6c7"/>
 
 <p>
   <a href="mailto:jefersondacostacomercial@gmail.com">
