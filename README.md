@@ -145,10 +145,11 @@ Founder of [**sampatech-hub**](https://github.com/sampatech-hub) — an open sou
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/imnotjef/imnotjef/output/github-contribution-grid-snake.svg" alt="snake eating contributions"/>
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imnotjef/imnotjef/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imnotjef/imnotjef/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imnotjef/imnotjef/output/github-contribution-grid-snake.svg">
+</picture>
 
 </details>
 </div>
