@@ -27,8 +27,8 @@
 
 ### Jeferson Rodrigo
 
-Software Engineer focused on **Java** **(Spring Boot)**, Building and operating scalable APIs end-to-end-from development and architecture to cloud infrastructure, DevOps and service migrations.
-**Internet Systems** student at São Paulo State College of Technology (FATEC).
+Software Engineer focused on backend development, with a strong foundation in C and Java, building efficient and reliable systems using their respective ecosystems and frameworks. Experienced in designing and operating scalable APIs end-to-end — from system design and backend engineering to cloud infrastructure, DevOps, and service migrations.
+Student at **42 São Paulo**, part of the **globally recognized 42 Network** — a world-class, peer-to-peer software engineering program known for producing highly adaptive engineers through intensive, project-based training.
 
 Founder of [**sampatech-hub**](https://github.com/sampatech-hub) — an open source project focused entirely on promoting and spreading tech events in São Paulo.
 
